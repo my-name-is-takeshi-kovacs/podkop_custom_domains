@@ -1,3 +1,4 @@
+#AI tools
 cursor.com
 genspark.ai
 poe.com
@@ -14,6 +15,8 @@ chat.openai.com.cdn.cloudflare.net
 production-openaicom-storage.azureedge.net
 x.ai
 grok.com
+
+#Crypto tools
 hiveon.com
 hiveon.net
 hiveos.farm
@@ -24,7 +27,24 @@ api.2miners.com
 stats.2miners.com
 rvn.2miners.com
 fw-update.ubnt.com
+
+#Ubiquiti tools
 fw-download.ubnt.com
 dl.ui.com
 ubnt.com
 ui.com
+
+#Speedtest tools
+www.speedtest.net.cdn.cloudflare.net
+.cdnst.net
+.cellmaps.com
+.ekahau.cloud
+.ekahau.com
+.ookla.com
+.ooklaserver.net
+.pingtest.net
+.speedtest.co
+.speedtest.net
+.speedtestcustom.com
+.webtest.net
+.ookla-speedtest-central.hgconair.hgc.com.hk
