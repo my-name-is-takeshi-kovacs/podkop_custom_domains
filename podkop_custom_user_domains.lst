@@ -30,7 +30,11 @@ rvn.2miners.com
 
 #Ubiquiti tools
 fw-update.ubnt.com
+fw-update.ui.com
 fw-download.ubnt.com
+apt.artifacts.ui.com
+apt-release-candidate.artifacts.ui.com
+apt-beta.artifacts.ui.com
 dl.ui.com
 ubnt.com
 ui.com
