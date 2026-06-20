@@ -1,7 +1,4 @@
 #AI tools
-cursor.com
-genspark.ai
-poe.com
 claude.ai
 claude.com
 ai-claude.net
@@ -16,6 +13,11 @@ chat.openai.com.cdn.cloudflare.net
 production-openaicom-storage.azureedge.net
 x.ai
 grok.com
+cursor.com
+genspark.ai
+poe.com
+nousresearch.com
+openrouter.ai
 
 #Crypto tools
 hiveon.com
@@ -24,9 +26,11 @@ hiveos.farm
 the.hiveos.farm
 hiveos.mobile
 2miners.com
+2miners.ru
 api.2miners.com
 stats.2miners.com
 rvn.2miners.com
+rvn.2miners.ru
 
 #Ubiquiti tools
 fw-update.ubnt.com
